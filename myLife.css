@@ -1,0 +1,60 @@
+.before{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+.before-you{
+    color: white;
+}
+.before-mylife{
+    color: white;
+}
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+}
+.after-tree{
+    position: absolute;
+    top: 70%;
+    width: 1500px;
+    z-index: 1;
+}
+.after-cloud{
+    position: absolute;
+    top: 20%;
+    width: 200px;
+    height: 100px;
+    z-index: 2;
+}
+.after-cloud2{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: 200px;
+    height: 100px;
+    z-index: 2;
+       
+}
+.after-cloud3{
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    width: 200px;
+    height: 100px;
+    z-index: 2;
+       
+}
+.after-flower{
+    position: absolute;
+    top:90%;
+    left: 35%;
+    width: 1500;
+    z-index: 2;
+}
+.last{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
